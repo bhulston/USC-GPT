@@ -1,0 +1,14 @@
+streamlit
+tensorflow
+transformers
+huggingface_hub
+langchain==0.0.316
+pinecone-client
+sentence_transformers
+numpy
+datetime
+openai==0.28.1
+pydantic==1.10.2
+cohere
+faiss-cpu
+tiktoken
